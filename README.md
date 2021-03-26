@@ -1,7 +1,7 @@
 ## Hola!! Soy Santiago, un gusto!! 👋👋👋
 
-Soy un desarrollador Web Full Stack Developer y realmente disfruto mucho programar e ir viendo como un proyecto avanza! 
-Me desenvuelvo muy bien tanto en Front-End como en Back-End ya que he trabajado en ambas partes.
+Soy un Full Stack Web Developer y realmente disfruto mucho programar e ir viendo como un proyecto avanza! 
+Me desenvuelvo muy bien trabajando en equipo tanto en Front-End como en Back-End, ya que he trabajado en ambas partes.
 
 #### Entre mis habilidades estan:
 - HTML & CSS
