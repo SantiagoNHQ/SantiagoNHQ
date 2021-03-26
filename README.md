@@ -1,4 +1,4 @@
-<div style="backgound-color:blue"">
+<div color="blue">
   
 <div align="center">
   
