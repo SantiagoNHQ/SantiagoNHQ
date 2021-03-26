@@ -7,7 +7,7 @@ Me desenvuelvo muy bien trabajando en equipo tanto en Front-End como en Back-End
 
 </div>
 
-#### 💡  Protectos que he realizado:
+### 💡  Protectos que he realizado:
 
 - WE ARE WINE
 
