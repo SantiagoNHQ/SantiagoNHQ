@@ -1,4 +1,4 @@
-<div background-image="url:https://mdbcdn.b-cdn.net/img/Photos/Others/images/76.jpg"></div>
+<div color="blue"></div>
 <div align="center">
   
 ## Hola!! Soy Santiago, un gusto!! 👋👋👋
