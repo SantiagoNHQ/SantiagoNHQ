@@ -25,7 +25,7 @@ Un banco digital en una aplicacion movil con las funcionalidades que un banco de
   
 </div>
 
-### 🎨 Entre mis habilidades estan:
+### 🎨 Entre mis habilidades están:
 - HTML & CSS
 - JavaScript
 - React
