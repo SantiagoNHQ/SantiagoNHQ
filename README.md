@@ -10,10 +10,12 @@ Me desenvuelvo muy bien trabajando en equipo tanto en Front-End como en Back-End
 #### Protectos que he realizado:
 
 - WE ARE WINE
-  Un Ecommerce pensado para una bodega que quiere poder exibi y comercializar sus vinos.
+
+Un Ecommerce pensado para una bodega que quiere poder exibi y comercializar sus vinos.
 
 - DEV BANK
-  Un banco digital en una aplicacion movil con las funcionalidades que un banco debe ofrecer.
+
+Un banco digital en una aplicacion movil con las funcionalidades que un banco debe ofrecer.
 
 #### Entre mis habilidades estan:
 - HTML & CSS
