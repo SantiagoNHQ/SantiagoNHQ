@@ -11,11 +11,11 @@ Me desenvuelvo muy bien trabajando en equipo tanto en Front-End como en Back-End
 
 ### 💡  Protectos que he realizado:
 
-- WE ARE WINE
+- <a href="https://github.com/SantiagoNHQ/ecommerce-ft08-g03">WE ARE WINE</a>
 
 Un Ecommerce pensado para una bodega que quiere poder exhibir y comercializar sus vinos.
 
-- DEV BANK
+- <a href="https://github.com/SantiagoNHQ/henryBank">DEV BANK</a>
 
 Un banco digital en una aplicacion movil con las funcionalidades que un banco debe ofrecer.
 
